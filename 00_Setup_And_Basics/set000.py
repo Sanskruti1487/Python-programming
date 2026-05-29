@@ -1,0 +1,1 @@
+print("Setup of Python and VS code installation")

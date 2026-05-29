@@ -1,0 +1,1 @@
+print("All type of data stru.")

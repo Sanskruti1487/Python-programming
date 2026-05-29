@@ -1,0 +1,1 @@
+print("All AI/ML prepartion journey")

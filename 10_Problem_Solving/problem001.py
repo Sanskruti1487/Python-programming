@@ -1,0 +1,1 @@
+print("Solve problem on leetcode , codeforce, hackerrank")

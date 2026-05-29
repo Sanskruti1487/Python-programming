@@ -1,0 +1,1 @@
+print("ALL operator and Basics")
